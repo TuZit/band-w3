@@ -282,6 +282,7 @@ p {
   border: none;
   float: right;
   margin-top: 1rem;
+  cursor: pointer;
 }
 
 .contact-details {
