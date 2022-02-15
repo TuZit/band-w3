@@ -121,7 +121,7 @@ p {
 .banner__content {
   position: absolute;
   left: 50%;
-  bottom: 10%;
+  bottom: 0%;
   transform: translate(-50%, -50%);
   color: #fff;
   text-align: center;
